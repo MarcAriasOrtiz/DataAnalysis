@@ -1,4 +1,4 @@
-# DATA ANALYSIS PYTHON / R   
+# DATA ANALYSIS WITH PYTHON / R   
 
 Some projects and data analysis made during my studies
 
