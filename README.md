@@ -1,3 +1,5 @@
-# DataScience
-Projects realized in Master during the year
+# SOME ANALYSIS 
+
+Some projects and data analysis made during my studies
+
 Hope you guys enjoy :D
